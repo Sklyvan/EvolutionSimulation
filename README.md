@@ -1,6 +1,6 @@
 # Simulating The Evolution
 
-This is a C++ program that simulates the [Natural Selection]([Natural selection - Wikipedia](https://en.wikipedia.org/wiki/Natural_selection)) phenomenon, described by [Charles Darwin]([Charles Darwin - Wikipedia](https://en.wikipedia.org/wiki/Charles_Darwin)) in "[The Origin of the Species]([On the Origin of Species - Wikipedia](https://en.wikipedia.org/wiki/On_the_Origin_of_Species))".
+This is a C++ program that simulates the [Natural Selection](https://en.wikipedia.org/wiki/Natural_selection) phenomenon, described by [Charles Darwin](https://en.wikipedia.org/wiki/Charles_Darwin) in "[The Origin of the Species](https://en.wikipedia.org/wiki/On_the_Origin_of_Species)".
 
 The simulation occurs inside a 2D world, the time inside the world is formed by days, and every day divided in two parts: **Day** & Night.
 When the day begins, all the creatures start moving and searching for food untill they find a food unit. When the creature finds a food unit decides (Depending on a random atribute assigned to every creature) if it goes to search another one or goes back home. After finding a second food unit, it always goes back home. If a creature is moving and the energy of if goes to 0, the creature dies.
