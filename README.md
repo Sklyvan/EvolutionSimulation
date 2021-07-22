@@ -128,4 +128,4 @@ Actually, you can see two diferent plots:
 
 - Speed & Energy: Shows the energy mean and speed for all creatures every day.
 
-<img src="file:///home/sklyvan/Documents/Simulating%20Natural%20Selection/SimulationWorld/res/TwoPlots.png" title="" alt="TwoPlots.png" data-align="center">
+<img src="https://github.com/Sklyvan/SimulationWorld/blob/main/res/TwoPlots.png" title="" alt="TwoPlots.png" data-align="center">
