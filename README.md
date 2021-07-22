@@ -103,6 +103,16 @@ sudo ln -s /usr/include/SDL2/SDL_ttf.h /usr/local/include/SDL2/
 sudo ln -sv /usr/include/python3.8/* /usr/include/
 ```
 
+### Building & Running
+```shell
+cd SimulationWorld
+cmake CMakeLists.txt
+make
+mv SimulationWorld build/
+cd build/
+./SimulationWorld
+```
+
 ### Using the Application Features:
 
 When running the application, the simulation starts automatically. You can interact with those keys:
