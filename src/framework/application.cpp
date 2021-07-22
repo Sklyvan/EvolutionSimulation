@@ -57,7 +57,6 @@ void Application::init(void)
     this->energyFile.open(ENERGY_FILE_PATH, std::ios::out | std::ios::trunc | std::ios::ate);
     this->speedFile.open(SPEED_FILE_PATH, std::ios::out | std::ios::trunc | std::ios::ate);
     this->populationFile.open(POPULATION_FILE_PATH, std::ios::out | std::ios::trunc | std::ios::ate);
-    this->energyFile << "0" << ","; this->speedFile << "0" << ","; this->populationFile << "0" << ",";
 }
 
 // Render one frame

@@ -75,7 +75,7 @@ void Map::clearFoodFromCells()
 bool Map::saveMap(const char *filePath)
 {
     remove(filePath);
-    int FD = open(filePath, O_CREAT | O_RDWR);
+    int FD = open(filePath, O_CREAT | O_RDWR, S_IRWXU | S_IRWXO | S_IRWXG);
     if (FD != -1)
     {
         write(FD, this->informationMatrix, this->sizeBytes);
