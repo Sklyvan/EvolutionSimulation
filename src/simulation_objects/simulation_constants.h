@@ -29,7 +29,7 @@
 #define FOOD_COLOR Color(130, 255, 165)
 #define CREATURE_COLOR Color(232, 85, 85)
 
-#define N_FOODS_UNITS 200
+#define N_FOODS_UNITS 250
 #define FOOD_EXPANSION 25
 
 #define MIN_TIME_SPEED 1
@@ -38,9 +38,9 @@
 
 #define MAX_CHANGE_DIRECTION_COEF 5
 
-#define N_CREATURES 400
+#define N_CREATURES 250
 #define MAX_ENERGY 10
-#define MAX_SPEED 10
+#define MAX_SPEED 15
 #define ENERGY_DECREASE_COEF 0.001
 #define HOLD_DIRECTION 8
 
