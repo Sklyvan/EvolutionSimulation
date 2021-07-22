@@ -41,7 +41,9 @@ Every creature inheritances from the ScreenObject class. And contains some attri
 
 ### Constants:
 
-When running the simulation there's some constants which you can modify to view alternative simulations and results.
+When running the simulation there's some constants which you can modify to view alternative simulations and results. 
+
+You can find this file at: **src/simulation_objects/simulation_constants.h**
 
 - GROUND_COLOR: RGB Color, defines the background color.
 

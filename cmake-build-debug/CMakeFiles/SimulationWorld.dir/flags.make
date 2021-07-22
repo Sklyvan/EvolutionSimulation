@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I"/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src" -I"/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/main" -I"/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/framework" -I/usr/include/SDL2 -I/usr/include/python3.8
+CXX_INCLUDES = -I/home/sklyvan/Documents/SimulationWorld/src -I/home/sklyvan/Documents/SimulationWorld/src/main -I/home/sklyvan/Documents/SimulationWorld/src/framework -I/usr/include/SDL2 -I/usr/include/python3.8
 
 CXX_FLAGS = -g -std=gnu++11
 

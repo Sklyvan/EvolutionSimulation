@@ -8,45 +8,45 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/cmake-build-debug"/>
+				<Option working_dir="/home/sklyvan/Documents/SimulationWorld/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/sklyvan/Documents/Simulating\ Natural\ Selection/SimulationWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sklyvan/Documents/Simulating\ Natural\ Selection/SimulationWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/sklyvan/Documents/Simulating\ Natural\ Selection/SimulationWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sklyvan/Documents/Simulating\ Natural\ Selection/SimulationWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/sklyvan/Documents/SimulationWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sklyvan/Documents/SimulationWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/sklyvan/Documents/SimulationWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sklyvan/Documents/SimulationWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/cmake-build-debug"/>
+				<Option working_dir="/home/sklyvan/Documents/SimulationWorld/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/sklyvan/Documents/Simulating\ Natural\ Selection/SimulationWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sklyvan/Documents/Simulating\ Natural\ Selection/SimulationWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/sklyvan/Documents/Simulating\ Natural\ Selection/SimulationWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sklyvan/Documents/Simulating\ Natural\ Selection/SimulationWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/sklyvan/Documents/SimulationWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sklyvan/Documents/SimulationWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/sklyvan/Documents/SimulationWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sklyvan/Documents/SimulationWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/cmake-build-debug"/>
+				<Option working_dir="/home/sklyvan/Documents/SimulationWorld/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/sklyvan/Documents/Simulating\ Natural\ Selection/SimulationWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sklyvan/Documents/Simulating\ Natural\ Selection/SimulationWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/sklyvan/Documents/Simulating\ Natural\ Selection/SimulationWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sklyvan/Documents/Simulating\ Natural\ Selection/SimulationWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/sklyvan/Documents/SimulationWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sklyvan/Documents/SimulationWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/sklyvan/Documents/SimulationWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sklyvan/Documents/SimulationWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="SimulationWorld">
-				<Option output="/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/cmake-build-debug/SimulationWorld" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/cmake-build-debug"/>
+				<Option output="/home/sklyvan/Documents/SimulationWorld/cmake-build-debug/SimulationWorld" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/sklyvan/Documents/SimulationWorld/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src"/>
-					<Add directory="/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/main"/>
-					<Add directory="/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/framework"/>
+					<Add directory="/home/sklyvan/Documents/SimulationWorld/src"/>
+					<Add directory="/home/sklyvan/Documents/SimulationWorld/src/main"/>
+					<Add directory="/home/sklyvan/Documents/SimulationWorld/src/framework"/>
 					<Add directory="/usr/include/SDL2"/>
 					<Add directory="/usr/include/python3.8"/>
 					<Add directory="/usr/include/c++/9"/>
@@ -58,22 +58,22 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/sklyvan/Documents/Simulating\ Natural\ Selection/SimulationWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 SimulationWorld"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sklyvan/Documents/Simulating\ Natural\ Selection/SimulationWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/sklyvan/Documents/Simulating\ Natural\ Selection/SimulationWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sklyvan/Documents/Simulating\ Natural\ Selection/SimulationWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/sklyvan/Documents/SimulationWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 SimulationWorld"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sklyvan/Documents/SimulationWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/sklyvan/Documents/SimulationWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sklyvan/Documents/SimulationWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="SimulationWorld/fast">
-				<Option output="/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/cmake-build-debug/SimulationWorld" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/cmake-build-debug"/>
+				<Option output="/home/sklyvan/Documents/SimulationWorld/cmake-build-debug/SimulationWorld" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/sklyvan/Documents/SimulationWorld/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src"/>
-					<Add directory="/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/main"/>
-					<Add directory="/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/framework"/>
+					<Add directory="/home/sklyvan/Documents/SimulationWorld/src"/>
+					<Add directory="/home/sklyvan/Documents/SimulationWorld/src/main"/>
+					<Add directory="/home/sklyvan/Documents/SimulationWorld/src/framework"/>
 					<Add directory="/usr/include/SDL2"/>
 					<Add directory="/usr/include/python3.8"/>
 					<Add directory="/usr/include/c++/9"/>
@@ -85,86 +85,86 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/sklyvan/Documents/Simulating\ Natural\ Selection/SimulationWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 SimulationWorld/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sklyvan/Documents/Simulating\ Natural\ Selection/SimulationWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/sklyvan/Documents/Simulating\ Natural\ Selection/SimulationWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sklyvan/Documents/Simulating\ Natural\ Selection/SimulationWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/sklyvan/Documents/SimulationWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 SimulationWorld/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sklyvan/Documents/SimulationWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/sklyvan/Documents/SimulationWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sklyvan/Documents/SimulationWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/framework/application.cpp">
+		<Unit filename="/home/sklyvan/Documents/SimulationWorld/src/framework/application.cpp">
 			<Option target="SimulationWorld"/>
 		</Unit>
-		<Unit filename="/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/framework/application.h">
+		<Unit filename="/home/sklyvan/Documents/SimulationWorld/src/framework/application.h">
 			<Option target="SimulationWorld"/>
 		</Unit>
-		<Unit filename="/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/framework/framework.cpp">
+		<Unit filename="/home/sklyvan/Documents/SimulationWorld/src/framework/framework.cpp">
 			<Option target="SimulationWorld"/>
 		</Unit>
-		<Unit filename="/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/framework/framework.h">
+		<Unit filename="/home/sklyvan/Documents/SimulationWorld/src/framework/framework.h">
 			<Option target="SimulationWorld"/>
 		</Unit>
-		<Unit filename="/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/framework/image.cpp">
+		<Unit filename="/home/sklyvan/Documents/SimulationWorld/src/framework/image.cpp">
 			<Option target="SimulationWorld"/>
 		</Unit>
-		<Unit filename="/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/framework/image.h">
+		<Unit filename="/home/sklyvan/Documents/SimulationWorld/src/framework/image.h">
 			<Option target="SimulationWorld"/>
 		</Unit>
-		<Unit filename="/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/framework/utils.cpp">
+		<Unit filename="/home/sklyvan/Documents/SimulationWorld/src/framework/utils.cpp">
 			<Option target="SimulationWorld"/>
 		</Unit>
-		<Unit filename="/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/framework/utils.h">
+		<Unit filename="/home/sklyvan/Documents/SimulationWorld/src/framework/utils.h">
 			<Option target="SimulationWorld"/>
 		</Unit>
-		<Unit filename="/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/main/includes.h">
+		<Unit filename="/home/sklyvan/Documents/SimulationWorld/src/main/includes.h">
 			<Option target="SimulationWorld"/>
 		</Unit>
-		<Unit filename="/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/main/main.cpp">
+		<Unit filename="/home/sklyvan/Documents/SimulationWorld/src/main/main.cpp">
 			<Option target="SimulationWorld"/>
 		</Unit>
-		<Unit filename="/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/simulation_objects/cell_information.cpp">
+		<Unit filename="/home/sklyvan/Documents/SimulationWorld/src/simulation_objects/cell_information.cpp">
 			<Option target="SimulationWorld"/>
 		</Unit>
-		<Unit filename="/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/simulation_objects/cell_information.h">
+		<Unit filename="/home/sklyvan/Documents/SimulationWorld/src/simulation_objects/cell_information.h">
 			<Option target="SimulationWorld"/>
 		</Unit>
-		<Unit filename="/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/simulation_objects/creature.cpp">
+		<Unit filename="/home/sklyvan/Documents/SimulationWorld/src/simulation_objects/creature.cpp">
 			<Option target="SimulationWorld"/>
 		</Unit>
-		<Unit filename="/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/simulation_objects/creature.h">
+		<Unit filename="/home/sklyvan/Documents/SimulationWorld/src/simulation_objects/creature.h">
 			<Option target="SimulationWorld"/>
 		</Unit>
-		<Unit filename="/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/simulation_objects/food.cpp">
+		<Unit filename="/home/sklyvan/Documents/SimulationWorld/src/simulation_objects/food.cpp">
 			<Option target="SimulationWorld"/>
 		</Unit>
-		<Unit filename="/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/simulation_objects/food.h">
+		<Unit filename="/home/sklyvan/Documents/SimulationWorld/src/simulation_objects/food.h">
 			<Option target="SimulationWorld"/>
 		</Unit>
-		<Unit filename="/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/simulation_objects/map.cpp">
+		<Unit filename="/home/sklyvan/Documents/SimulationWorld/src/simulation_objects/map.cpp">
 			<Option target="SimulationWorld"/>
 		</Unit>
-		<Unit filename="/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/simulation_objects/map.h">
+		<Unit filename="/home/sklyvan/Documents/SimulationWorld/src/simulation_objects/map.h">
 			<Option target="SimulationWorld"/>
 		</Unit>
-		<Unit filename="/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/simulation_objects/objects_hitboxes/rectangle.cpp">
+		<Unit filename="/home/sklyvan/Documents/SimulationWorld/src/simulation_objects/objects_hitboxes/rectangle.cpp">
 			<Option target="SimulationWorld"/>
 		</Unit>
-		<Unit filename="/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/simulation_objects/objects_hitboxes/rectangle.h">
+		<Unit filename="/home/sklyvan/Documents/SimulationWorld/src/simulation_objects/objects_hitboxes/rectangle.h">
 			<Option target="SimulationWorld"/>
 		</Unit>
-		<Unit filename="/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/simulation_objects/objects_hitboxes/screen_object.cpp">
+		<Unit filename="/home/sklyvan/Documents/SimulationWorld/src/simulation_objects/objects_hitboxes/screen_object.cpp">
 			<Option target="SimulationWorld"/>
 		</Unit>
-		<Unit filename="/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/simulation_objects/objects_hitboxes/screen_object.h">
+		<Unit filename="/home/sklyvan/Documents/SimulationWorld/src/simulation_objects/objects_hitboxes/screen_object.h">
 			<Option target="SimulationWorld"/>
 		</Unit>
-		<Unit filename="/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/simulation_objects/simulation_constants.h">
+		<Unit filename="/home/sklyvan/Documents/SimulationWorld/src/simulation_objects/simulation_constants.h">
 			<Option target="SimulationWorld"/>
 		</Unit>
-		<Unit filename="/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/simulation_objects/simulation_includes.h">
+		<Unit filename="/home/sklyvan/Documents/SimulationWorld/src/simulation_objects/simulation_includes.h">
 			<Option target="SimulationWorld"/>
 		</Unit>
-		<Unit filename="/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/CMakeLists.txt">
+		<Unit filename="/home/sklyvan/Documents/SimulationWorld/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

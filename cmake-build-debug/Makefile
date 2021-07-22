@@ -67,10 +67,10 @@ RM = /home/sklyvan/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/211.7628.27/bi
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld"
+CMAKE_SOURCE_DIR = /home/sklyvan/Documents/SimulationWorld
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/cmake-build-debug"
+CMAKE_BINARY_DIR = /home/sklyvan/Documents/SimulationWorld/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -99,9 +99,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/cmake-build-debug/CMakeFiles" "/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/cmake-build-debug//CMakeFiles/progress.marks"
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/sklyvan/Documents/SimulationWorld/cmake-build-debug/CMakeFiles /home/sklyvan/Documents/SimulationWorld/cmake-build-debug//CMakeFiles/progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start "/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/cmake-build-debug/CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/sklyvan/Documents/SimulationWorld/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target

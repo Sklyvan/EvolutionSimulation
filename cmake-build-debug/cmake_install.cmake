@@ -1,4 +1,4 @@
-# Install script for directory: /home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld
+# Install script for directory: /home/sklyvan/Documents/SimulationWorld
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/sklyvan/Documents/SimulationWorld/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

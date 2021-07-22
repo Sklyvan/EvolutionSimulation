@@ -62,10 +62,10 @@ RM = /home/sklyvan/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/211.7628.27/bi
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld"
+CMAKE_SOURCE_DIR = /home/sklyvan/Documents/SimulationWorld
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/cmake-build-debug"
+CMAKE_BINARY_DIR = /home/sklyvan/Documents/SimulationWorld/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/SimulationWorld.dir/depend.make
@@ -78,146 +78,146 @@ include CMakeFiles/SimulationWorld.dir/flags.make
 
 CMakeFiles/SimulationWorld.dir/src/main/main.cpp.o: CMakeFiles/SimulationWorld.dir/flags.make
 CMakeFiles/SimulationWorld.dir/src/main/main.cpp.o: ../src/main/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/SimulationWorld.dir/src/main/main.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/SimulationWorld.dir/src/main/main.cpp.o -c "/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/main/main.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sklyvan/Documents/SimulationWorld/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/SimulationWorld.dir/src/main/main.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/SimulationWorld.dir/src/main/main.cpp.o -c /home/sklyvan/Documents/SimulationWorld/src/main/main.cpp
 
 CMakeFiles/SimulationWorld.dir/src/main/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SimulationWorld.dir/src/main/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/main/main.cpp" > CMakeFiles/SimulationWorld.dir/src/main/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/sklyvan/Documents/SimulationWorld/src/main/main.cpp > CMakeFiles/SimulationWorld.dir/src/main/main.cpp.i
 
 CMakeFiles/SimulationWorld.dir/src/main/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SimulationWorld.dir/src/main/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/main/main.cpp" -o CMakeFiles/SimulationWorld.dir/src/main/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/sklyvan/Documents/SimulationWorld/src/main/main.cpp -o CMakeFiles/SimulationWorld.dir/src/main/main.cpp.s
 
 CMakeFiles/SimulationWorld.dir/src/framework/application.cpp.o: CMakeFiles/SimulationWorld.dir/flags.make
 CMakeFiles/SimulationWorld.dir/src/framework/application.cpp.o: ../src/framework/application.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/SimulationWorld.dir/src/framework/application.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/SimulationWorld.dir/src/framework/application.cpp.o -c "/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/framework/application.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sklyvan/Documents/SimulationWorld/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/SimulationWorld.dir/src/framework/application.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/SimulationWorld.dir/src/framework/application.cpp.o -c /home/sklyvan/Documents/SimulationWorld/src/framework/application.cpp
 
 CMakeFiles/SimulationWorld.dir/src/framework/application.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SimulationWorld.dir/src/framework/application.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/framework/application.cpp" > CMakeFiles/SimulationWorld.dir/src/framework/application.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/sklyvan/Documents/SimulationWorld/src/framework/application.cpp > CMakeFiles/SimulationWorld.dir/src/framework/application.cpp.i
 
 CMakeFiles/SimulationWorld.dir/src/framework/application.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SimulationWorld.dir/src/framework/application.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/framework/application.cpp" -o CMakeFiles/SimulationWorld.dir/src/framework/application.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/sklyvan/Documents/SimulationWorld/src/framework/application.cpp -o CMakeFiles/SimulationWorld.dir/src/framework/application.cpp.s
 
 CMakeFiles/SimulationWorld.dir/src/framework/framework.cpp.o: CMakeFiles/SimulationWorld.dir/flags.make
 CMakeFiles/SimulationWorld.dir/src/framework/framework.cpp.o: ../src/framework/framework.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/SimulationWorld.dir/src/framework/framework.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/SimulationWorld.dir/src/framework/framework.cpp.o -c "/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/framework/framework.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sklyvan/Documents/SimulationWorld/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/SimulationWorld.dir/src/framework/framework.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/SimulationWorld.dir/src/framework/framework.cpp.o -c /home/sklyvan/Documents/SimulationWorld/src/framework/framework.cpp
 
 CMakeFiles/SimulationWorld.dir/src/framework/framework.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SimulationWorld.dir/src/framework/framework.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/framework/framework.cpp" > CMakeFiles/SimulationWorld.dir/src/framework/framework.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/sklyvan/Documents/SimulationWorld/src/framework/framework.cpp > CMakeFiles/SimulationWorld.dir/src/framework/framework.cpp.i
 
 CMakeFiles/SimulationWorld.dir/src/framework/framework.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SimulationWorld.dir/src/framework/framework.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/framework/framework.cpp" -o CMakeFiles/SimulationWorld.dir/src/framework/framework.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/sklyvan/Documents/SimulationWorld/src/framework/framework.cpp -o CMakeFiles/SimulationWorld.dir/src/framework/framework.cpp.s
 
 CMakeFiles/SimulationWorld.dir/src/framework/image.cpp.o: CMakeFiles/SimulationWorld.dir/flags.make
 CMakeFiles/SimulationWorld.dir/src/framework/image.cpp.o: ../src/framework/image.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/SimulationWorld.dir/src/framework/image.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/SimulationWorld.dir/src/framework/image.cpp.o -c "/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/framework/image.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sklyvan/Documents/SimulationWorld/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/SimulationWorld.dir/src/framework/image.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/SimulationWorld.dir/src/framework/image.cpp.o -c /home/sklyvan/Documents/SimulationWorld/src/framework/image.cpp
 
 CMakeFiles/SimulationWorld.dir/src/framework/image.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SimulationWorld.dir/src/framework/image.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/framework/image.cpp" > CMakeFiles/SimulationWorld.dir/src/framework/image.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/sklyvan/Documents/SimulationWorld/src/framework/image.cpp > CMakeFiles/SimulationWorld.dir/src/framework/image.cpp.i
 
 CMakeFiles/SimulationWorld.dir/src/framework/image.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SimulationWorld.dir/src/framework/image.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/framework/image.cpp" -o CMakeFiles/SimulationWorld.dir/src/framework/image.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/sklyvan/Documents/SimulationWorld/src/framework/image.cpp -o CMakeFiles/SimulationWorld.dir/src/framework/image.cpp.s
 
 CMakeFiles/SimulationWorld.dir/src/framework/utils.cpp.o: CMakeFiles/SimulationWorld.dir/flags.make
 CMakeFiles/SimulationWorld.dir/src/framework/utils.cpp.o: ../src/framework/utils.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/SimulationWorld.dir/src/framework/utils.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/SimulationWorld.dir/src/framework/utils.cpp.o -c "/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/framework/utils.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sklyvan/Documents/SimulationWorld/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/SimulationWorld.dir/src/framework/utils.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/SimulationWorld.dir/src/framework/utils.cpp.o -c /home/sklyvan/Documents/SimulationWorld/src/framework/utils.cpp
 
 CMakeFiles/SimulationWorld.dir/src/framework/utils.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SimulationWorld.dir/src/framework/utils.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/framework/utils.cpp" > CMakeFiles/SimulationWorld.dir/src/framework/utils.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/sklyvan/Documents/SimulationWorld/src/framework/utils.cpp > CMakeFiles/SimulationWorld.dir/src/framework/utils.cpp.i
 
 CMakeFiles/SimulationWorld.dir/src/framework/utils.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SimulationWorld.dir/src/framework/utils.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/framework/utils.cpp" -o CMakeFiles/SimulationWorld.dir/src/framework/utils.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/sklyvan/Documents/SimulationWorld/src/framework/utils.cpp -o CMakeFiles/SimulationWorld.dir/src/framework/utils.cpp.s
 
 CMakeFiles/SimulationWorld.dir/src/simulation_objects/food.cpp.o: CMakeFiles/SimulationWorld.dir/flags.make
 CMakeFiles/SimulationWorld.dir/src/simulation_objects/food.cpp.o: ../src/simulation_objects/food.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/SimulationWorld.dir/src/simulation_objects/food.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/SimulationWorld.dir/src/simulation_objects/food.cpp.o -c "/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/simulation_objects/food.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sklyvan/Documents/SimulationWorld/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/SimulationWorld.dir/src/simulation_objects/food.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/SimulationWorld.dir/src/simulation_objects/food.cpp.o -c /home/sklyvan/Documents/SimulationWorld/src/simulation_objects/food.cpp
 
 CMakeFiles/SimulationWorld.dir/src/simulation_objects/food.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SimulationWorld.dir/src/simulation_objects/food.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/simulation_objects/food.cpp" > CMakeFiles/SimulationWorld.dir/src/simulation_objects/food.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/sklyvan/Documents/SimulationWorld/src/simulation_objects/food.cpp > CMakeFiles/SimulationWorld.dir/src/simulation_objects/food.cpp.i
 
 CMakeFiles/SimulationWorld.dir/src/simulation_objects/food.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SimulationWorld.dir/src/simulation_objects/food.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/simulation_objects/food.cpp" -o CMakeFiles/SimulationWorld.dir/src/simulation_objects/food.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/sklyvan/Documents/SimulationWorld/src/simulation_objects/food.cpp -o CMakeFiles/SimulationWorld.dir/src/simulation_objects/food.cpp.s
 
 CMakeFiles/SimulationWorld.dir/src/simulation_objects/creature.cpp.o: CMakeFiles/SimulationWorld.dir/flags.make
 CMakeFiles/SimulationWorld.dir/src/simulation_objects/creature.cpp.o: ../src/simulation_objects/creature.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/SimulationWorld.dir/src/simulation_objects/creature.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/SimulationWorld.dir/src/simulation_objects/creature.cpp.o -c "/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/simulation_objects/creature.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sklyvan/Documents/SimulationWorld/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/SimulationWorld.dir/src/simulation_objects/creature.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/SimulationWorld.dir/src/simulation_objects/creature.cpp.o -c /home/sklyvan/Documents/SimulationWorld/src/simulation_objects/creature.cpp
 
 CMakeFiles/SimulationWorld.dir/src/simulation_objects/creature.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SimulationWorld.dir/src/simulation_objects/creature.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/simulation_objects/creature.cpp" > CMakeFiles/SimulationWorld.dir/src/simulation_objects/creature.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/sklyvan/Documents/SimulationWorld/src/simulation_objects/creature.cpp > CMakeFiles/SimulationWorld.dir/src/simulation_objects/creature.cpp.i
 
 CMakeFiles/SimulationWorld.dir/src/simulation_objects/creature.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SimulationWorld.dir/src/simulation_objects/creature.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/simulation_objects/creature.cpp" -o CMakeFiles/SimulationWorld.dir/src/simulation_objects/creature.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/sklyvan/Documents/SimulationWorld/src/simulation_objects/creature.cpp -o CMakeFiles/SimulationWorld.dir/src/simulation_objects/creature.cpp.s
 
 CMakeFiles/SimulationWorld.dir/src/simulation_objects/map.cpp.o: CMakeFiles/SimulationWorld.dir/flags.make
 CMakeFiles/SimulationWorld.dir/src/simulation_objects/map.cpp.o: ../src/simulation_objects/map.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/SimulationWorld.dir/src/simulation_objects/map.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/SimulationWorld.dir/src/simulation_objects/map.cpp.o -c "/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/simulation_objects/map.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sklyvan/Documents/SimulationWorld/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/SimulationWorld.dir/src/simulation_objects/map.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/SimulationWorld.dir/src/simulation_objects/map.cpp.o -c /home/sklyvan/Documents/SimulationWorld/src/simulation_objects/map.cpp
 
 CMakeFiles/SimulationWorld.dir/src/simulation_objects/map.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SimulationWorld.dir/src/simulation_objects/map.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/simulation_objects/map.cpp" > CMakeFiles/SimulationWorld.dir/src/simulation_objects/map.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/sklyvan/Documents/SimulationWorld/src/simulation_objects/map.cpp > CMakeFiles/SimulationWorld.dir/src/simulation_objects/map.cpp.i
 
 CMakeFiles/SimulationWorld.dir/src/simulation_objects/map.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SimulationWorld.dir/src/simulation_objects/map.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/simulation_objects/map.cpp" -o CMakeFiles/SimulationWorld.dir/src/simulation_objects/map.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/sklyvan/Documents/SimulationWorld/src/simulation_objects/map.cpp -o CMakeFiles/SimulationWorld.dir/src/simulation_objects/map.cpp.s
 
 CMakeFiles/SimulationWorld.dir/src/simulation_objects/cell_information.cpp.o: CMakeFiles/SimulationWorld.dir/flags.make
 CMakeFiles/SimulationWorld.dir/src/simulation_objects/cell_information.cpp.o: ../src/simulation_objects/cell_information.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/SimulationWorld.dir/src/simulation_objects/cell_information.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/SimulationWorld.dir/src/simulation_objects/cell_information.cpp.o -c "/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/simulation_objects/cell_information.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sklyvan/Documents/SimulationWorld/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/SimulationWorld.dir/src/simulation_objects/cell_information.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/SimulationWorld.dir/src/simulation_objects/cell_information.cpp.o -c /home/sklyvan/Documents/SimulationWorld/src/simulation_objects/cell_information.cpp
 
 CMakeFiles/SimulationWorld.dir/src/simulation_objects/cell_information.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SimulationWorld.dir/src/simulation_objects/cell_information.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/simulation_objects/cell_information.cpp" > CMakeFiles/SimulationWorld.dir/src/simulation_objects/cell_information.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/sklyvan/Documents/SimulationWorld/src/simulation_objects/cell_information.cpp > CMakeFiles/SimulationWorld.dir/src/simulation_objects/cell_information.cpp.i
 
 CMakeFiles/SimulationWorld.dir/src/simulation_objects/cell_information.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SimulationWorld.dir/src/simulation_objects/cell_information.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/simulation_objects/cell_information.cpp" -o CMakeFiles/SimulationWorld.dir/src/simulation_objects/cell_information.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/sklyvan/Documents/SimulationWorld/src/simulation_objects/cell_information.cpp -o CMakeFiles/SimulationWorld.dir/src/simulation_objects/cell_information.cpp.s
 
 CMakeFiles/SimulationWorld.dir/src/simulation_objects/objects_hitboxes/rectangle.cpp.o: CMakeFiles/SimulationWorld.dir/flags.make
 CMakeFiles/SimulationWorld.dir/src/simulation_objects/objects_hitboxes/rectangle.cpp.o: ../src/simulation_objects/objects_hitboxes/rectangle.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/SimulationWorld.dir/src/simulation_objects/objects_hitboxes/rectangle.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/SimulationWorld.dir/src/simulation_objects/objects_hitboxes/rectangle.cpp.o -c "/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/simulation_objects/objects_hitboxes/rectangle.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sklyvan/Documents/SimulationWorld/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/SimulationWorld.dir/src/simulation_objects/objects_hitboxes/rectangle.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/SimulationWorld.dir/src/simulation_objects/objects_hitboxes/rectangle.cpp.o -c /home/sklyvan/Documents/SimulationWorld/src/simulation_objects/objects_hitboxes/rectangle.cpp
 
 CMakeFiles/SimulationWorld.dir/src/simulation_objects/objects_hitboxes/rectangle.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SimulationWorld.dir/src/simulation_objects/objects_hitboxes/rectangle.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/simulation_objects/objects_hitboxes/rectangle.cpp" > CMakeFiles/SimulationWorld.dir/src/simulation_objects/objects_hitboxes/rectangle.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/sklyvan/Documents/SimulationWorld/src/simulation_objects/objects_hitboxes/rectangle.cpp > CMakeFiles/SimulationWorld.dir/src/simulation_objects/objects_hitboxes/rectangle.cpp.i
 
 CMakeFiles/SimulationWorld.dir/src/simulation_objects/objects_hitboxes/rectangle.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SimulationWorld.dir/src/simulation_objects/objects_hitboxes/rectangle.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/simulation_objects/objects_hitboxes/rectangle.cpp" -o CMakeFiles/SimulationWorld.dir/src/simulation_objects/objects_hitboxes/rectangle.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/sklyvan/Documents/SimulationWorld/src/simulation_objects/objects_hitboxes/rectangle.cpp -o CMakeFiles/SimulationWorld.dir/src/simulation_objects/objects_hitboxes/rectangle.cpp.s
 
 CMakeFiles/SimulationWorld.dir/src/simulation_objects/objects_hitboxes/screen_object.cpp.o: CMakeFiles/SimulationWorld.dir/flags.make
 CMakeFiles/SimulationWorld.dir/src/simulation_objects/objects_hitboxes/screen_object.cpp.o: ../src/simulation_objects/objects_hitboxes/screen_object.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/SimulationWorld.dir/src/simulation_objects/objects_hitboxes/screen_object.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/SimulationWorld.dir/src/simulation_objects/objects_hitboxes/screen_object.cpp.o -c "/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/simulation_objects/objects_hitboxes/screen_object.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sklyvan/Documents/SimulationWorld/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/SimulationWorld.dir/src/simulation_objects/objects_hitboxes/screen_object.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/SimulationWorld.dir/src/simulation_objects/objects_hitboxes/screen_object.cpp.o -c /home/sklyvan/Documents/SimulationWorld/src/simulation_objects/objects_hitboxes/screen_object.cpp
 
 CMakeFiles/SimulationWorld.dir/src/simulation_objects/objects_hitboxes/screen_object.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SimulationWorld.dir/src/simulation_objects/objects_hitboxes/screen_object.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/simulation_objects/objects_hitboxes/screen_object.cpp" > CMakeFiles/SimulationWorld.dir/src/simulation_objects/objects_hitboxes/screen_object.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/sklyvan/Documents/SimulationWorld/src/simulation_objects/objects_hitboxes/screen_object.cpp > CMakeFiles/SimulationWorld.dir/src/simulation_objects/objects_hitboxes/screen_object.cpp.i
 
 CMakeFiles/SimulationWorld.dir/src/simulation_objects/objects_hitboxes/screen_object.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SimulationWorld.dir/src/simulation_objects/objects_hitboxes/screen_object.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/simulation_objects/objects_hitboxes/screen_object.cpp" -o CMakeFiles/SimulationWorld.dir/src/simulation_objects/objects_hitboxes/screen_object.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/sklyvan/Documents/SimulationWorld/src/simulation_objects/objects_hitboxes/screen_object.cpp -o CMakeFiles/SimulationWorld.dir/src/simulation_objects/objects_hitboxes/screen_object.cpp.s
 
 # Object files for target SimulationWorld
 SimulationWorld_OBJECTS = \
@@ -255,9 +255,10 @@ SimulationWorld: /usr/lib/x86_64-linux-gnu/libglut.so
 SimulationWorld: /usr/lib/x86_64-linux-gnu/libXi.so
 SimulationWorld: /usr/lib/x86_64-linux-gnu/libpython3.8.so
 SimulationWorld: CMakeFiles/SimulationWorld.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_12) "Linking CXX executable SimulationWorld"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/sklyvan/Documents/SimulationWorld/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Linking CXX executable SimulationWorld"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/SimulationWorld.dir/link.txt --verbose=$(VERBOSE)
-	/home/sklyvan/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/211.7628.27/bin/cmake/linux/bin/cmake -E copy_if_different /home/sklyvan/Documents/Simulating\ Natural\ Selection/SimulationWorld/res/README.md /home/sklyvan/Documents/Simulating\ Natural\ Selection/SimulationWorld/cmake-build-debug
+	/home/sklyvan/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/211.7628.27/bin/cmake/linux/bin/cmake -E copy_if_different /home/sklyvan/Documents/SimulationWorld/res/README.md /home/sklyvan/Documents/SimulationWorld/cmake-build-debug
+	/home/sklyvan/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/211.7628.27/bin/cmake/linux/bin/cmake -E copy_if_different /home/sklyvan/Documents/SimulationWorld/res/TwoPlots.png /home/sklyvan/Documents/SimulationWorld/cmake-build-debug
 
 # Rule to build all files generated by this target.
 CMakeFiles/SimulationWorld.dir/build: SimulationWorld
@@ -269,6 +270,6 @@ CMakeFiles/SimulationWorld.dir/clean:
 .PHONY : CMakeFiles/SimulationWorld.dir/clean
 
 CMakeFiles/SimulationWorld.dir/depend:
-	cd "/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/cmake-build-debug" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld" "/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld" "/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/cmake-build-debug" "/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/cmake-build-debug" "/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/cmake-build-debug/CMakeFiles/SimulationWorld.dir/DependInfo.cmake" --color=$(COLOR)
+	cd /home/sklyvan/Documents/SimulationWorld/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/sklyvan/Documents/SimulationWorld /home/sklyvan/Documents/SimulationWorld /home/sklyvan/Documents/SimulationWorld/cmake-build-debug /home/sklyvan/Documents/SimulationWorld/cmake-build-debug /home/sklyvan/Documents/SimulationWorld/cmake-build-debug/CMakeFiles/SimulationWorld.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/SimulationWorld.dir/depend
 
