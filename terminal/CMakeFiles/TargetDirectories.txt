@@ -1,0 +1,3 @@
+/Users/gti/Downloads/CG2018/terminal/CMakeFiles/rebuild_cache.dir
+/Users/gti/Downloads/CG2018/terminal/CMakeFiles/edit_cache.dir
+/Users/gti/Downloads/CG2018/terminal/CMakeFiles/ComputerGraphics.dir

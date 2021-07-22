@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11 -lmingw32 -g -static-libgcc -static-libstdc++ CMakeFiles/untitled17.dir/src/main/main.cpp.o -o untitled17   -L"/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/lib"  -Wl,-rpath,"/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/lib" -lmingw32 -lSDL2main -lSDL2 

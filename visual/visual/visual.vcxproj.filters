@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="..\..\src\framework\application.cpp">
+      <Filter>framework</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\framework\framework.cpp">
+      <Filter>framework</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\framework\image.cpp">
+      <Filter>framework</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\framework\utils.cpp">
+      <Filter>framework</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\main\main.cpp">
+      <Filter>main</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\src\framework\application.h">
+      <Filter>framework</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\framework\framework.h">
+      <Filter>framework</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\framework\image.h">
+      <Filter>framework</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\framework\utils.h">
+      <Filter>framework</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\main\includes.h">
+      <Filter>main</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="framework">
+      <UniqueIdentifier>{6af2d96f-14f7-429b-b83a-08ca223d4e0f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="main">
+      <UniqueIdentifier>{5386b315-42b8-44ad-b16e-136dd321326c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,16 @@
+/home/sklyvan/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/211.7628.27/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld"
+-- Using architecture x86_64
+-- Using Compiler IDE: gnu
+-- Using platform linux
+-- Creating SimulationWorld project.
+-- OPENGL_INCLUDE_DIR: /usr/include
+-- OPENGL_LIBRARIES: /usr/lib/x86_64-linux-gnu/libOpenGL.so;/usr/lib/x86_64-linux-gnu/libGLX.so;/usr/lib/x86_64-linux-gnu/libGLU.so
+-- GLUT_INCLUDE_DIR: /usr/include
+-- GLUT_LIBRARY: /usr/lib/x86_64-linux-gnu/libglut.so;/usr/lib/x86_64-linux-gnu/libXi.so
+-- GLEW_INCLUDE_DIR: /usr/include
+-- GLEW_LIBRARY: 
+-- SDL2_INCLUDE_DIRS: /usr/include/SDL2
+-- SDL2_LIBRARY: SDL2
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/cmake-build-debug

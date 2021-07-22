@@ -1,0 +1,64 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/main/includes.h
+windows.h
+-
+SDL2/SDL.h
+-
+SDL2/SDL_opengl.h
+-
+GLUT/glut.h
+-
+GL/glut.h
+-
+iostream
+-
+cmath
+-
+
+/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/framework/application.cpp
+application.h
+/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/framework/application.h
+utils.h
+/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/framework/utils.h
+image.h
+/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/framework/image.h
+
+/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/framework/application.h
+includes.h
+/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/framework/includes.h
+framework.h
+/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/framework/framework.h
+image.h
+/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/framework/image.h
+
+/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/framework/framework.h
+vector
+-
+cmath
+-
+random
+-
+
+/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/framework/image.h
+string.h
+-
+stdio.h
+-
+iostream
+-
+framework.h
+/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/framework/framework.h
+
+/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/framework/utils.h
+includes.h
+/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/framework/includes.h
+framework.h
+/home/sklyvan/Documents/Simulating Natural Selection/SimulationWorld/src/framework/framework.h
+
