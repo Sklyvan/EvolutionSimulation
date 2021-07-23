@@ -12,14 +12,6 @@ function( copy_resources targetName )
         set( COPY_RES ${COPY_RES} ${files} )
     endif( MSVC )
 
-    # Copy any files from res folder
-    file( GLOB files "res/*.*" )
-    set( COPY_RES ${COPY_RES} ${files} )
-
-    foreach( RES_FILE ${COPY_RES} )
-        add_custom_command( TARGET ${targetName} POST_BUILD
-            COMMAND ${CMAKE_COMMAND} -E copy_if_different "${RES_FILE}" $<TARGET_FILE_DIR:${targetName}> )
-    endforeach()
 endfunction()
 
 project( SimulationWorld )
