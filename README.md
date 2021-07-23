@@ -109,6 +109,7 @@ git clone https://github.com/Sklyvan/SimulationWorld
 cd SimulationWorld
 cmake CMakeLists.txt
 make
+mkdir build
 mv SimulationWorld build/
 cd build/
 ./SimulationWorld
