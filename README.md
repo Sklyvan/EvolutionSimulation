@@ -105,6 +105,7 @@ sudo ln -sv /usr/include/python3.8/* /usr/include/
 
 ### Building & Running
 ```shell
+git clone https://github.com/Sklyvan/SimulationWorld
 cd SimulationWorld
 cmake CMakeLists.txt
 make
