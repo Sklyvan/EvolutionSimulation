@@ -40,7 +40,7 @@
 
 #define N_CREATURES 250
 #define MAX_ENERGY 10
-#define MAX_SPEED 15
+#define MAX_SPEED 10
 #define ENERGY_DECREASE_COEF 0.001
 #define HOLD_DIRECTION 8
 
