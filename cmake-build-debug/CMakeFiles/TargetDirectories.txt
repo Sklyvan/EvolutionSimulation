@@ -1,3 +1,0 @@
-/home/sklyvan/Documents/SimulationWorld/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/sklyvan/Documents/SimulationWorld/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/sklyvan/Documents/SimulationWorld/cmake-build-debug/CMakeFiles/SimulationWorld.dir
