@@ -92,11 +92,9 @@ sudo apt install mlocate # Tool to locate files on the computer.
 locate Python.h
 ```
 
-After locate Python.h, you should get a location similar to:
+After running **locate Python.h**, you should get a location similar to: **/usr/include/python3.x/Python.h**
 
-**/usr/include/python3.8/Python.h** The Python version can be 3.7, 3.9 or 3.10. (Maybe some older Python versions can work too.)
-
-Now you can link the SDL and Python, for the Python link use the location found on **locate Python.h** output.
+Now you can link SDL and Python, for the Python link use the location from the **locate Python.h** output.
 
 ```shell
 sudo ln -s /usr/include/SDL2/SDL_ttf.h /usr/local/include/SDL2/
