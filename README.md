@@ -1,4 +1,4 @@
-![](./res/logoContent)
+![](./res/logoContent/MainLogo.png)
 
 This is a C++ program that simulates the [Natural Selection](https://en.wikipedia.org/wiki/Natural_selection) phenomenon, described by [Charles Darwin](https://en.wikipedia.org/wiki/Charles_Darwin) in "[The Origin of the Species](https://en.wikipedia.org/wiki/On_the_Origin_of_Species)".
 
